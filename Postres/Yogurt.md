@@ -1,2 +1,3 @@
-Abres un yogur
-te lo comes
+Abres un yogur de fresa
+coges una cuchara
+te lo comes rapidamente
